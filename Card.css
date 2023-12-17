@@ -1,0 +1,16 @@
+.card_container {
+  width: 70vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 50px;
+  flex-direction: column;
+  gap:50px;
+}
+
+.icon {
+  height: 100px; 
+  width: 200px;
+  border-radius: 3px;
+}
+
